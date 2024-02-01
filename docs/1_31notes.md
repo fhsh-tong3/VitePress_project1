@@ -97,7 +97,7 @@ docs/.vitepress/cache
 
 commit(把東西拿給管理員) add(把要放的東西跟管理員說)
 
-publish branch 把東西上傳到github
+sync changes 把東西上傳到github
 ```
 
 ## 補充
