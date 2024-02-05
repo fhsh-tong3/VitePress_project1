@@ -3,16 +3,9 @@
 layout: home
 
 hero:
-  name: "project1"
-  text: "pratice"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  name: "angel's notes"
+  tagline: have some fun ~
+
 
 features:
   - title: Feature A
