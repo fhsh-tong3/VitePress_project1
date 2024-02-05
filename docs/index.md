@@ -8,9 +8,8 @@ hero:
 
 
 features:
-  - title: 2024.1.31 notes
+  - title: 2024.1.31 
     details: 主要教學內容：如何安裝git , node.js & npm , homebrew , vitepress...
-  - title: 2024.2.1 notes
+  - title: 2024.2.1 
     details: 主要教學內容：vercel , 如何把github連結本地端
 ---
-
