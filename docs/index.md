@@ -1,5 +1,5 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
+# https://tong-goodnotes.vercel.app/
 layout: home
 
 hero:
@@ -8,11 +8,9 @@ hero:
 
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 2024.1.31 notes
+    details: 主要教學內容：如何安裝git , node.js & npm , homebrew , vitepress...
+  - title: 2024.2.1 notes
+    details: 主要教學內容：vercel , 如何把github連結本地端
 ---
 
