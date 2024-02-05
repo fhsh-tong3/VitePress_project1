@@ -13,5 +13,14 @@ features:
 
   - title: 2024.2.1 
     details: 主要教學內容：vercel , 如何把github連結本地端
-    link: https://zcbraces-notes.fhsh.taipei/2-1notes.html  
+    link: https://zcbraces-notes.fhsh.taipei/2-1notes.html 
+    
+  - title: 01 
+    details: Official CompTIA Security+ Student Guide-dual-notes
+    link: https://zcbraces-notes.fhsh.taipei/lesson1.html 
+
+  - title: 02
+    details: Official CompTIA Security+ Student Guide-dual-notes
+    link: https://zcbraces-notes.fhsh.taipei/lesson2.html 
+
 ---
