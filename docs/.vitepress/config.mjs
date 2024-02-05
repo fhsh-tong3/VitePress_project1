@@ -22,7 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'Github', link: 'https://github.com/fhsh-tong3' }
+      { icon: 'github', link: 'https://github.com/fhsh-tong3' }
     ]
   }
 })
