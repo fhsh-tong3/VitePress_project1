@@ -13,14 +13,6 @@ features:
   - title: 2024.2.1 
     details: 主要教學內容：vercel , 如何把github連結本地端
     link: https://tong-goodnotes.vercel.app/2-1notes.html
-
-
-head:
-  - - meta
-    - name: description
-      content: hello
-  - - meta
-    - name: keywords
-      content: super duper SEO
-
+:root {
+  --vp-home-hero-name-color: brown;}
 ---
