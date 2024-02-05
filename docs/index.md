@@ -15,11 +15,11 @@ features:
     details: 主要教學內容：vercel , 如何把github連結本地端
     link: https://zcbraces-notes.fhsh.taipei/2-1notes.html  
 
-  - title: lesson1
+  - title: 1
     details: Official CompTIA Security+ Student Guide-dual-notes
     link: https://zcbraces-notes.fhsh.taipei/lesson1.html
 
- - title: lesson2
+ - title: 2
     details: Official CompTIA Security+ Student Guide-dual-notes
     link: https://zcbraces-notes.fhsh.taipei/lesson2.html
 
