@@ -40,11 +40,12 @@ step2 安裝成功後到終端幾使用which查看是否安裝成功
 
 ```$ which npm```
 
-```$which node```
+```$ which node```
 
 step3 接著在終端機中輸入
 
 ```$ npm```
+```$ npm init```
 
 ```$ node```
 
