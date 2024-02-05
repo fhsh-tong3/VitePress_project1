@@ -1,4 +1,4 @@
-# 2024年1月31筆記
+# 2024年1月31日筆記
 主要教學內容：如何安裝git , node.js & npm , homebrew , vitepress...
 ## homebrew
 ```
