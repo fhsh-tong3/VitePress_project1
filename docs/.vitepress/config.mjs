@@ -21,8 +21,8 @@ export default defineConfig({
       {
         text: 'Official CompTIA Security+ Student Guide-dual-notes',
         items: [
-          { text: 'lesson1', link: '/1-31notes.html' },
-          { text: 'lesson2', link: '/2-1notes.html' }
+          { text: 'lesson1', link: '/lesson1.html' },
+          { text: 'lesson2', link: '/lesson2.html' }
         ]
       }
     ],
