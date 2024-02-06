@@ -1,7 +1,10 @@
 {
   "devDependencies": {
+    "flexsearch": "^0.7.43",
     "init": "^0.1.2",
-    "vitepress": "^1.0.0-rc.40"
+    "markdown-it": "^14.0.0",
+    "vitepress": "^1.0.0-rc.40",
+    "vitepress-plugin-search": "^1.0.4-alpha.22"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
