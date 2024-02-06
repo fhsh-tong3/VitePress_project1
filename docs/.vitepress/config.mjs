@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 
 export default defineConfig({
-  title: "good notes",
+  title: "notes",
   description: "tong's notes",
   themeConfig: {
     
@@ -19,7 +19,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'ᴏғғɪᴄɪᴀʟ ᴄᴏᴍᴘᴛɪᴀ sᴇᴄᴜʀɪᴛʏ+ sᴛᴜᴅᴇɴᴛ ɢᴜɪᴅᴇ-ᴅᴜᴀʟ-ɴᴏᴛᴇs',
+        text: 'ᴏғғɪᴄɪᴀʟ ᴄᴏᴍᴘᴛɪᴀ sᴇᴄᴜʀɪᴛʏ+',
         items: [
           { text: 'lesson1', link: '/lesson1.html' },
           { text: 'lesson2', link: '/lesson2.html' }
