@@ -5,14 +5,14 @@
 
      /* brand按钮 */
     --vp-button-brand-border: #d4c6ae;
-    --vp-button-brand-text: #d4c6ae;
+    --vp-button-brand-text: #fff;
     --vp-button-brand-bg: #b89972;
 
     --vp-button-brand-hover-border: #d4c6ae;
     --vp-button-brand-hover-text: #fff;
     --vp-button-brand-hover-bg: #b89972;
 
-    --vp-button-brand-active-border: #d4c6ae;
+    --vp-button-brand-active-border: #d4aeae;
 
   }
   
