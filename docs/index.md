@@ -9,7 +9,7 @@ hero:
     - theme: brand
       text: Tong's github
       link: https://github.com/fhsh-tong3
-    - theme: alt
+    - theme: brand
       text: Tong's meidum
       link: https://medium.com/@zctongwow
 
