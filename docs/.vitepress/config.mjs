@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 
 export default defineConfig({
-  title: "𖠿",
+  title: "Tong's website",
   description: "tong's website home",
   themeConfig: {
     
