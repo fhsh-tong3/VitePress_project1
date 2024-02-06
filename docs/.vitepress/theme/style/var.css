@@ -12,7 +12,7 @@
     --vp-button-brand-hover-text: #fff;
     --vp-button-brand-hover-bg: #d4c6ae;
 
-    --vp-button-brand-active-border: #d4c6ae;
+    --vp-button-brand-active: #d4c6ae;
 
     /* alt按钮 */
     --vp-button-alt-border: #d4c6ae;
@@ -23,7 +23,7 @@
     --vp-button-alt-hover-text: #fff;
     --vp-button-alt-hover-bg: #b89972;
 
-    --vp-button-alt-active-border: #d4c6ae;
+    --vp-button-alt-active: #d4c6ae;
 
     /* 主题基色 */
     --vp-c-brand: #9f8361;
