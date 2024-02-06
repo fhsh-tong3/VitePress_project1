@@ -7,17 +7,20 @@ hero:
   tagline: have some fun ~
 
 features:
-  - icon: <i class="bi bi-journals"></i>
+  - icon: 🗒️
     title: ɴᴏᴛᴇs 
     link: https://zcbraces-notes.fhsh.taipei/1-31notes.html
 
-  - title: ᴏғғɪᴄɪᴀʟ ᴄᴏᴍᴘᴛɪᴀ sᴇᴄᴜʀɪᴛʏ+ 
+  - icon : 📃
+    title: ᴏғғɪᴄɪᴀʟ ᴄᴏᴍᴘᴛɪᴀ sᴇᴄᴜʀɪᴛʏ+ 
     link: https://zcbraces-notes.fhsh.taipei/lesson1.html
     
-  - title: ᴄᴛғ 
+  - icon : 🖥️
+    title: ᴄᴛғ 
     link: https://zcbraces-notes.fhsh.taipei/
 
-  - title: ᴄʜᴀʟʟᴇɴɢᴇ 👩🏻‍💻
+  -  icon :  👩🏻‍💻
+    title: ᴄʜᴀʟʟᴇɴɢᴇ 
     link: https://zcbraces-notes.fhsh.taipei/
 
 ---
