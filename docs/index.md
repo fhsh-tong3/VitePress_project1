@@ -10,7 +10,7 @@ features:
   - icon: 🗒️
     title: ɴᴏᴛᴇs 
     link: https://zcbraces-notes.fhsh.taipei/1-31notes.html
-
+ 
   - icon : 📃
     title: ᴏғғɪᴄɪᴀʟ ᴄᴏᴍᴘᴛɪᴀ sᴇᴄᴜʀɪᴛʏ+ 
     link: https://zcbraces-notes.fhsh.taipei/lesson1.html
@@ -19,7 +19,7 @@ features:
     title: ᴄᴛғ 
     link: https://zcbraces-notes.fhsh.taipei/
 
-  -  icon :  👩🏻‍💻
+  - icon : 👩🏻‍💻
     title: ᴄʜᴀʟʟᴇɴɢᴇ 
     link: https://zcbraces-notes.fhsh.taipei/
 
