@@ -1,7 +1,7 @@
 :root {
     /* 标题 */
     --vp-home-hero-name-color: transparent;
-    --vp-home-hero-name-background: linear-gradient( 135deg, #d4c6ae 10%, #b89972 100%);
+    --vp-home-hero-name-background: linear-gradient( 135deg, #d4c6ae 50%, #b89972 100%);
 
      /* brand按钮 */
     --vp-button-brand-border: #d4c6ae;
@@ -12,7 +12,7 @@
     --vp-button-brand-hover-text: #fff;
     --vp-button-brand-hover-bg: #b89972;
 
-    --vp-button-brand-active-border: #d4aeae;
+    /*--vp-button-brand-active-border: #d4aeae;*/
 
   }
   
