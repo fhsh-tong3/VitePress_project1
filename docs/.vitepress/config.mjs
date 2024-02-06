@@ -2,11 +2,13 @@ import { defineConfig } from 'vitepress'
 
 
 export default defineConfig({
+  title: "𖠿",
+  description: "tong's website home",
   themeConfig: {
     
-    nav: [
-      { text: '𖠿', link: '/'}
-    ],
+    // nav: [
+    //   { text: '𖠿', link: '/'}
+    // ],
 
     sidebar: [
       {
