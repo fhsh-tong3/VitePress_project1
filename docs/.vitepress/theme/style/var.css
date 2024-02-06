@@ -29,8 +29,9 @@
     --vp-c-brand: #9f8361;
     --vp-c-brand-light: #d4c6ae;
     --vp-c-brand-dark: #b89972;
-
+      
 
   }
-  
-  
+.text:hover{
+    color: #b89972;
+}
