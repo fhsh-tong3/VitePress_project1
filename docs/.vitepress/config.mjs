@@ -41,7 +41,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/fhsh-tong3' }
+      { icon: 'github', link: 'https://github.com/fhsh-tong3' },
+      { icon: 'medium', link: 'https://medium.com/@zctongwow' }
     ]
   }
 })
