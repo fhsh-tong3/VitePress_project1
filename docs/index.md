@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Tong's notes"
-  tagline: have some fun ~
+  name: "Tong's website"
+  tagline: Have a good day ~
   actions:
     - text: Tong's github
       link: https://github.com/vuejs/vitepress

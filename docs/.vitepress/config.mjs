@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 
 export default defineConfig({
-  title: "notes",
-  description: "tong's notes",
+  title: "☺︎",
+  description: "tong's website",
   themeConfig: {
     
     nav: [
