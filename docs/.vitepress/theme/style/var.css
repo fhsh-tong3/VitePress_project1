@@ -4,22 +4,22 @@
     --vp-home-hero-name-background: linear-gradient( 135deg, #d4c6ae 50%, #b89972 100%);
 
      /* brand按钮 */
-    --vp-button-brand-border: #b89972;
+    /* --vp-button-brand-border: #b89972; */
     --vp-button-brand-text: #fff;
     --vp-button-brand-bg: #d4c6ae;
 
-    --vp-button-brand-hover-border: #b89972;
+   /* --vp-button-brand-hover-border: #b89972;*/
     --vp-button-brand-hover-text: #fff;
     --vp-button-brand-hover-bg: #d4c6ae;
 
     --vp-button-brand-active-bg: #d4c6ae;
 
     /* alt按钮 */
-    --vp-button-alt-border: #d4c6ae;
+    /* --vp-button-alt-border: #d4c6ae; */
     --vp-button-alt-text: #fff;
     --vp-button-alt-bg: #b89972;
 
-    --vp-button-alt-hover-border:#d4c6ae ;
+    /* --vp-button-alt-hover-border:#d4c6ae ; */
     --vp-button-alt-hover-text: #fff;
     --vp-button-alt-hover-bg: #b89972;
 
