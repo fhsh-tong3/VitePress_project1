@@ -26,12 +26,9 @@
     --vp-button-alt-active-bg: #b89972;
 
     /* 主题基色 */
-    --vp-c-brand: #9f8361;
-    --vp-c-brand-light: #d4c6ae;
-    --vp-c-brand-dark: #b89972;
+    --vp-c-alt: #9f8361;
+    --vp-c-alt-light: #d4c6ae;
+    --vp-c-alt-dark: #b89972;
       
 
   }
-.text:hover{
-    color: #b89972;
-}
