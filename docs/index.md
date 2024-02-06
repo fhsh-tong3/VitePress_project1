@@ -5,6 +5,11 @@ layout: home
 hero:
   name: "Tong's notes"
   tagline: have some fun ~
+  actions:
+    - text: Tong's github
+      link: https://github.com/vuejs/vitepress
+    - text: Tong's meidum
+      link: https://medium.com/@zctongwow
 
 features:
   - icon: 🗒️
