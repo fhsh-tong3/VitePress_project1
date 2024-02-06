@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Tong's github
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/fhsh-tong3
     - theme: alt
       text: Tong's meidum
       link: https://medium.com/@zctongwow
