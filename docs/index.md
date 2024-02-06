@@ -6,9 +6,11 @@ hero:
   name: "Tong's website"
   tagline: Have a good day ~
   actions:
-    - text: Tong's github
+    - theme: brand
+      text: Tong's github
       link: https://github.com/vuejs/vitepress
-    - text: Tong's meidum
+    - theme: alt
+      text: Tong's meidum
       link: https://medium.com/@zctongwow
 
 features:
