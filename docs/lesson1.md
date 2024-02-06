@@ -76,4 +76,6 @@ CIA:機密性、完整性、可用性、（身份驗證、權限控制、不可�
 
 角色：角色指的是在組織中擁有特定職責和權限的一組工作職能
 
+DevSecOps : Development , Security ,operations 
+
 安全配置指南secure configuration guides ：組織或個人在配置和操作特定軟體、硬體、網絡或系統時應遵循的最佳實踐和建議，以確保風險降低
