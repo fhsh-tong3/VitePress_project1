@@ -7,7 +7,8 @@ hero:
   tagline: have some fun ~
 
 features:
-  - title: ɴᴏᴛᴇs 
+  - icon: <i class="bi bi-journals"></i>
+    title: ɴᴏᴛᴇs 
     link: https://zcbraces-notes.fhsh.taipei/1-31notes.html
 
   - title: ᴏғғɪᴄɪᴀʟ ᴄᴏᴍᴘᴛɪᴀ sᴇᴄᴜʀɪᴛʏ+ 
