@@ -6,7 +6,7 @@ hero:
   name: "Tong's website"
   tagline: Have a good day ~
   actions:
-    - theme: brand
+    - theme: alt
       text: Tong's github
       link: https://github.com/fhsh-tong3
     - theme: brand
