@@ -28,13 +28,13 @@ export default defineConfig({
       {
         text: 'ᴄᴛғ',
         items: [
-          { text: 'noting now', link: '/' }
+          { text: 'nothing now', link: '/' }
         ]
       },
       {
         text: 'ᴄʜᴀʟʟᴇɴɢᴇ 👩🏻‍💻',
         items: [
-          { text: '', link: '/' }
+          { text: 'noting now', link: '/' }
         ]
       }
 
