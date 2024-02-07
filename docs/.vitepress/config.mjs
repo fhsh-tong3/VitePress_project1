@@ -6,10 +6,6 @@ export default defineConfig({
   description: "tong's website home",
   themeConfig: {
     
-    // nav: [
-    //   { text: '𖠿', link: '/'}
-    // ],
-
     sidebar: [
       {
         text: 'ɴᴏᴛᴇs',
@@ -30,7 +26,7 @@ export default defineConfig({
       {
         text: 'ᴄᴛғ',
         items: [
-          { text: 'nothing now', link: '/' }
+          { text: 'nothing now'}
         ]
       },
       {
