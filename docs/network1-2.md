@@ -18,7 +18,7 @@
 ```
 提供網路服務和應用程式之間的接口，包括 HTTP、FTP、SMTP 等協定
 ```
-### TCP/IP 模型與 OSI 模型的比較
+## TCP/IP 模型與 OSI 模型的比較
 | OSI | TCP/IP |
 | :-- | :-- |
 |應用層（Application Layer）|應用層（Application Layer）|
