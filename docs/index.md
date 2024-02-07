@@ -24,7 +24,7 @@ features:
     
   - icon : 🖥️
     title: ᴄᴛғ 
-    link: https://zcbraces-notes.fhsh.taipei/
+    link: https://zcbraces-notes.fhsh.taipei/natas-ans.html
 
   - icon : 👩🏻‍💻
     title: ᴄʜᴀʟʟᴇɴɢᴇ 
