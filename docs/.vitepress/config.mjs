@@ -26,13 +26,13 @@ export default defineConfig({
       {
         text: 'ᴄᴛғ',
         items: [
-          { text: 'nothing now'}
+          { text: 'natas-ans', link:'/natas-ans.html'}
         ]
       },
       {
         text: 'ᴄʜᴀʟʟᴇɴɢᴇ 👩🏻‍💻',
         items: [
-          { text: 'noting now', link: '/' }
+          { text: 'noting now' }
         ]
       }
 
