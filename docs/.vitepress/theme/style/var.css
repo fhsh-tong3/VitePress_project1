@@ -1,7 +1,6 @@
 :root {
     /* 标题 */
-    --vp-home-hero-name-color: transparent;
-    --vp-home-hero-name-background: linear-gradient( 135deg, #d4c6ae 30%, #b89972 100%);
+    --vp-home-hero-name-color: #9f8361;
 
      /* brand按钮 */
     /* --vp-button-brand-border: #b89972; */
