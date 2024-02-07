@@ -15,7 +15,9 @@ export default defineConfig({
         text: 'ɴᴏᴛᴇs',
         items: [
           { text: '2024.1.31 notes', link: '/1-31notes.html' },
-          { text: '2024.2.1 notes', link: '/2-1notes.html' }
+          { text: '2024.2.1 notes', link: '/2-1notes.html' },
+          { text: 'network1-1', link: '/network1-1.html' },
+          { text: 'network1-2', link: '/network1-2.html' }
         ]
       },
       {
