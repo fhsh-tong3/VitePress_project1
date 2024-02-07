@@ -25,8 +25,11 @@
     --vp-button-alt-active-bg: #b89972;
 
     /* 主题基色 */
-    --docsearch-primary-color: #b89972;
-    --docsearch-text-color: #1c1e21;
+    --vp-c-brand-1: #9f8361;
+    --vp-c-brand-1-light: #d4c6ae;
+    --vp-c-brand-1-dark: #b89972;
+
+    
       
 
   }
