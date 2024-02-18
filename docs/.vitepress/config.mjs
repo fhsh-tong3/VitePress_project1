@@ -26,7 +26,8 @@ export default defineConfig({
       {
         text: 'ᴄᴛғ',
         items: [
-          { text: 'natas-ans', link:'/natas-ans.html'}
+          { text: 'natas-ans', link:'/natas-ans.html'},
+          { text: 'natas0-1', link:'/natas0-1.html'}
         ]
       },
       {
